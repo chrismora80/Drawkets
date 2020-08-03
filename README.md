@@ -16,3 +16,7 @@ This project emphasizes the use of repsonsive design using CSS Media Queries
 This project has media Queries for:
 max-width: 980px
 
+# Demo
+
+![Screenshot (156)](https://user-images.githubusercontent.com/60753848/89226910-bff6ca80-d5aa-11ea-9616-f60e8b98db40.png)
+
